@@ -1,4 +1,4 @@
-# {{i18n}} [![NPM version](https://badge.fury.io/js/handlebars-helper-i18n.svg)](http://badge.fury.io/js/handlebars-helper-i18n)
+# {{i18n}} [![Build status](https://travis-ci.org/helpers/handlebars-helper-i18n.svg)](https://travis-ci.org/helpers/handlebars-helper-i18n) [![NPM version](https://badge.fury.io/js/handlebars-helper-i18n.svg)](http://badge.fury.io/js/handlebars-helper-i18n)
 
 
 > {{i18n}} handlebars helper
@@ -70,7 +70,7 @@ Renders to `executive-summary-2013.md`.
 
 
 ## License
-Copyright (c) 2014 Laurent Goderre, contributors.  
+Copyright (c) 2014 Laurent Goderre, contributors.
 Released under the MIT license
 
 ***
