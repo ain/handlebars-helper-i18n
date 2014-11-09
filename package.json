@@ -32,12 +32,13 @@
   ],
   "main": "./index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "mocha"
   },
   "devDependencies": {
     "handlebars": "^2.0.0",
     "should": "^4.0.4",
-    "verb": "^0.2.6"
+    "verb": "^0.2.6",
+    "mocha": "^2.0.1"
   },
   "keywords": [
     "assemble",
